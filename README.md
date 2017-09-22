@@ -5,7 +5,7 @@ The analysis code for the publication is available [here on GitHub](http://nbvie
 
 ### Installation
 # Make sure to have ANTs, nibabel installed
-```
+
 ```python
 import qneuropet
 qneuropet.__test__()
@@ -14,4 +14,4 @@ qneuropet.__test__()
 
 ### Support or Contact
 
-Having trouble with qNeuroPET? [contact support](https://github.com/smartrama) and we’ll help you sort it out.
+Having trouble with qNeuroPET? [Contact support](https://github.com/smartrama) and we’ll help you sort it out.
