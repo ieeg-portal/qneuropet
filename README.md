@@ -1,10 +1,8 @@
 ## Welcome to qNeuroPET
 
-The analysis code for the publication is available [here on GitHub](http://nbviewer.jupyter.org/github/ieeg-portal/qneuroPET/blob/master/analysis/qPET%20Epilepsy%20-%20FINAL%20Tables%20and%20Figures.ipynb). Please refer to that published notebook for all machine learning code and statistical analysis. 
+The analysis code for the publication is available [here on GitHub](http://nbviewer.jupyter.org/github/ieeg-portal/qneuroPET/blob/master/analysis/qPET%20Epilepsy%20-%20FINAL%20Tables%20and%20Figures.ipynb). Please refer to that published notebook for all machine learning code and statistical analysis. Make sure to have ANTs, nibabel installed
 
-
-### Installation
-# Make sure to have ANTs, nibabel installed
+### Installation 
 
 ```python
 import qneuropet
