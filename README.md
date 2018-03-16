@@ -12,4 +12,4 @@ qneuropet.__test__()
 
 ### Support or Contact
 
-Having trouble with qNeuroPET? [Contact support](https://github.com/smartrama) and we’ll help you sort it out.
+Having trouble with qNeuroPET? [Contact support](https://github.com/lkini) and we’ll help you sort it out.
