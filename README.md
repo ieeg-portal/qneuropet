@@ -5,7 +5,4 @@ The analysis code for the publication is available [here on GitHub](http://nbvie
 
 
 ### Support or Contact
-
 Having trouble with qNeuroPET? [Contact support](http://github.com/ieeg-portal) and we’ll help you sort it out.
-=======
->>>>>>> a0278ade3aa6701a3df8440ce8993bc9bbfc5f2e
