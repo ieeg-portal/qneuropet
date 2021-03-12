@@ -9,11 +9,11 @@ The pipeline script assumes you have the following requirements installed:
 [ANTS](http://stnava.github.io/ANTs/)
 
 The following python module requirements:
-cv2
-nibabel
-numpy
-pandas
-scipy
+- cv2
+- nibabel
+- numpy
+- pandas
+- scipy
 
 This has been tested on MacOS 10.15 and Linux openSUSE Leap 15.2.
 
